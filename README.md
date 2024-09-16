@@ -77,10 +77,10 @@ streamlit
 
 4. **View Results:**
 
-- The app will display various charts:
-  - **Stock Market Performance:** Line chart of closing prices.
-  - **Stock Prices:** Area chart with separate plots for each selected stock.
-  - **Volatility:** Line chart showing the volatility of the selected stocks.
+   - The app will display various charts:
+     - **Stock Market Performance:** Line chart of closing prices.
+     - **Stock Prices:** Area chart with separate plots for each selected stock.
+     - **Volatility:** Line chart showing the volatility of the selected stocks.
     
 ## Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
