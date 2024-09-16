@@ -65,15 +65,15 @@ streamlit
 ## Usage
 1. **Start the App:**
 
-  - After running the app using `streamlit run app.py`, navigate to the provided local URL (typically `http://localhost:8501`).
+      - After running the app using `streamlit run app.py`, navigate to the provided local URL (typically `http://localhost:8501`).
 
 2. **Select Date Range:**
 
-  - Use the date input fields to choose the start and end dates for your analysis.
+     - Use the date input fields to choose the start and end dates for your analysis.
     
 3. **Choose Stocks:**
 
-  - Select one or more tech stocks from the list.
+     - Select one or more tech stocks from the list.
 
 4. **View Results:**
 
