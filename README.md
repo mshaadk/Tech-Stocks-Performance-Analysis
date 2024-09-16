@@ -22,28 +22,28 @@ To run this app locally, follow these steps:
 
 2. **Navigate to the Project Directory:**
 
-  ```bash
-  cd Tech-Stocks-Performance-Analysis
-  ```
+   ```bash
+   cd Tech-Stocks-Performance-Analysis
+   ```
 
 3. **Set Up a Virtual Environment:**
 
-  ```bash
-  python -m venv venv
-  source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-  ```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+   ```
 
 4. **Install Required Packages:**
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 5. **Run the Streamlit App:**
 
-  ```bash
-  streamlit run app.py
-  ```
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Dependencies
 The project requires the following Python packages:
