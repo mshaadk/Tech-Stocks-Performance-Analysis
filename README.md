@@ -55,13 +55,6 @@ The project requires the following Python packages:
   
 You can install these packages using the `requirements.txt` file included in the project:
 
-```txt
-pandas
-yfinance
-plotly
-streamlit
-```
-
 ## Usage
 1. **Start the App:**
 
